@@ -1,0 +1,52 @@
+#banner{
+  text-align: center;
+  background-image: url("https://static.pexels.com/photos/197083/pexels-photo-197083.jpeg");
+  background-size: cover;
+  padding: 100px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  margin: 0;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  padding-top: 70px;
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#banner ul {
+  margin-top: 60px;
+
+}
+
+#banner li:hover {
+  color: white;
+}
+
+
+.features{
+  padding: 50px;
+  font-weight: lighter;
+  background: white;
+  text-align: center;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: white;
+  margin: 0px;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
